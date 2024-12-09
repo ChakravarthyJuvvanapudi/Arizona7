@@ -1,0 +1,32 @@
+﻿Candidate,D_Party,R_Party,L_Party,Candidate Age,Maricopa_D,Maricopa_R,Maricopa_L,Pima_D,Pima_R,Pima_L,Yuma_D,Yuma_R,Yuma_L,Votes,Total_votes,18+ Population,Vote_Pct,Turnout_pct,Election,President,Year,Status,District,Incumbent,Opp_Candidate
+Raul Grijalva,Democratic,,,76,"5,893",5360,NIL,"41,025","16,572","4,140","8,186","12,736",665,"61,256","103,818","440,000",59,23.6,General,George W. Bush,2002,Won,7,No,Ross Hieb
+Raul Grijalva,Democratic,,,76,12024,11574,NIL,"29,715","36,041","1,069","17,271","17,249","1,491","108,868","175,437","450,000",62.1,38.99,General,George W. Bush,2004,Won,7,Yes,Joseph Sweeney
+Raul Grijalva,Democratic,,,76,8626,8637,NIL,"49,850","17,921",NIL,"13,197","13,810","1,109","80,354","131,525","470,000",61.1,27.98,General,George W. Bush,2006,Won,7,Yes,Ron Drake
+Raul Grijalva,Democratic,,,76,18503,12468,NIL,"68,181","22,078","3,560","20,259","18,249",NIL,"124,304","196,489","476,000",63.3,41.28,General,George W. Bush,2008,Won,7,Yes,Joseph Sweeney
+Raul Grijalva,Democratic,,,76,11812,10167,NIL,"15,672",NIL,NIL,"11,988","20,224",816,"70,935","159,144","497,000",50.2,32.02,General,Barack Obama,2010,Won,7,Yes,Ruth McClung
+Ed Pastor,Democratic,,,75,"14,489","23,338",NIL,"104,489",NIL,"23,338","4,456","23,338",NIL,"104,489","127,827","511,000",81.7,25.02,General,Barack Obama,2012,Won,7,Yes,Joe Cobb
+Raul Grijalva,Democratic,,,76,NIL,NIL,NIL,NIL,NIL,NIL,"11,703","9,645",949,"98,468","168,698","514,000",58.4,32.82,General,Barack Obama,2012,Won,3,Yes,Gabriela Saucedo Mercer
+Raul Grijalva,Democratic,,,76,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"58,192","104,428","519,000",55.7,20.12,General,Barack Obama,2014,Won,3,Yes,Gabriela Saucedo Mercer
+Ruben Gallago,Democratic,,,44,"54,235","10,715",NIL,"54,235",NIL,"10,715","12,818","10,662",NIL,"54,235","72,454","518,000",74.9,13.99,General,Barack Obama,2014,Won,7,No,Joe Cobb
+Raul Grijalva,Democratic,,,76,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"148,973","151,035","520,000",98.6,29.05,General,Barack Obama,2016,Won,3,Yes,Eve Nunez
+Ruben Gallago,Democratic,,,44,"119,465","39,286",NIL,"119,465","39,286",NIL,"20,202","8,486",NIL,"119,465","158,811","525,000",75.2,30.25,General,Barack Obama,2016,Won,7,Yes,Eve Nunez
+Ruben Gallago,Democratic,,,44,"113,804",NIL,"18,706","113,044",NIL,NIL,"18,687","9,176",NIL,"113,044","132,051","540,909",85.6,24.41,General,Donald trump,2018,Won,7,Yes,Gary Swing
+Raul Grijalva,Democratic,,,76,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"114,650","179,518","526,000",63.9,34.13,General,Donald trump,2018,Won,3,Yes,Nicolas Pierson
+Raul Grijalva,Democratic,,,76,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"174,243","269,837","511,115",64.6,52.79,General,Donald trump,2020,Won,3,Yes,Daniel Wood
+Ruben Gallago,Democratic,,,44,"165,452","50,226",NIL,"165,452","50,226",NIL,"8,238","19,185",NIL,"165,452","215,732","549,958",76.9,39.23,General,Donald trump,2020,Won,7,Yes,Josh Barnett
+Raul Grijalva,Democratic,,,76,"14,668","8,669",NIL,"126,418","69,444",NIL,"22,123","17,582",NIL,"126,418","195,862","546,394",64.5,35.85,General,Joe Biden,2022,Won,7,Yes,Luis Pozzolo
+Daniel Butierez,,Republic,,57,NIL,NIL,NIL,NIL,NIL,NIL,"2,992","1,155",121,"24,424","24,424","616,992",100,3.96,Primary,Joe Biden,2024,Won,7,No,NIL
+Raul Grijalva,Democratic,,,76,"5,205",NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"55,133","55,133","616,992",100,8.94,Primary,Joe Biden,2024,Won,7,Yes,NIL
+Luis Pozzolo,,Republic,,51,NIL,NIL,NIL,"126,418","69,444",NIL,"11,437","8,953",NIL,"69,444","195,862","546,394",35.5,35.85,General,Joe Biden,2022,Lost,7,No,Raul Grijalva
+Luis Pozzolo,,Republic,,51,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"20,413","29,580","546,394",69,5.41,Primary,Joe Biden,2022,Won,7,No,NIL
+Raul Grijalva,Democratic,,,76,"14,668","8,669",NIL,NIL,NIL,NIL,NIL,NIL,NIL,"62,547","62,547","546,394",100,11.45,Primary,Joe Biden,2022,Won,7,Yes,NIL
+Josh Barnett,,Republic,,48,"165,452","50,226",NIL,NIL,NIL,NIL,NIL,NIL,NIL,"50,226","215,732","549,958",23.3,39.23,General,Donald trump,2020,Lost,7,No,Ruben Gallago
+Josh Barnett,,Republic,,48,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,NIL,"15,245","15,245","549,958",100,2.77,Primary,Donald trump,2020,Won,7,No,NIL
+Ruben Gallago,Democratic,,,44,NIL,NIL,NIL,NIL,NIL,NIL,"2,905","1,075",138,"56,108","56,108","549,958",100,10.2,Primary,Donald trump,2020,Won,7,Yes,NIL
+Ruben Gallago,Democratic,,,44,NIL,NIL,NIL,NIL,NIL,NIL,"12,476","6,515","1,295","32,231","43,087","526,000",74.8,8.19,Primary,Donald trump,2018,Won,7,Yes,NIL
+Eve Nunez,,Republic,,69,"14,489","23,338",NIL,"119,465","39,286",NIL,"20,202","8,486",,"39,286","158,811","520,000",24.7,30.54,General,Barack Obama,2016,Lost,7,No,Ruben Gallago
+Ruth McClung,,Republic,,87,11812,10167,NIL,"15,672",NIL,NIL,"11,988","20,224",816,"70,385","159,144","497,000",44.2,32.02,General,Barack Obama,2010,Lost,7,No,Raul Grijalva
+Joseph Sweeney,,Republic,,84,18503,12468,NIL,"68,181","22,078","3,560","20,259","18,249",NIL,"64,425","196,489","476,000",32.8,41.28,General,George W. Bush,2008,Lost,7,No,Raul Grijalva
+Ron Drake,,Republic,,87,8626,8637,NIL,"49,850","17,921",NIL,"13,197","13,810","1,109","46,498","131,525","470,000",35.4,27.98,General,George W. Bush,2006,Lost,7,No,Raul Grijalva
+Joseph Sweeney,,Republic,,84,12024,11574,NIL,"29,715","36,041","1,069","17,271","17,249","1,491","59,066","175,437","450,000",33.7,38.99,General,George W. Bush,2004,Lost,7,No,Raul Grijalva
+Ross Hieb,,Republic,,76,"5,893",5360,NIL,"41,025","16,572","4,140","8,186","12,736",665,"38,474","103,818","440,000",37.1,23.6,General,George W. Bush,2002,Lost,7,No,Raul Grijalva
